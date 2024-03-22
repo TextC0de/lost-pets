@@ -55,7 +55,7 @@ La aplicación de Lost Pets es una herramienta digital innovadora diseñada con 
 - **Clerk/Auth0 para Autenticación**: Se están evaluando estas plataformas para implementar un sistema de autenticación seguro y flexible, garantizando la protección de los datos de los usuarios.
 - **S3 para Almacenamiento de Imágenes**: Se utiliza el servicio de almacenamiento de Amazon S3 para guardar las fotografías de las mascotas de manera segura y accesible.
 
-## Plan de Desarrollo
+## Plan de Desarrollo MVP
 
 ### Fase 1: Diseño y Prototipado
 
@@ -108,7 +108,7 @@ El backend se desarrollará con un enfoque en la escalabilidad y la eficiencia, 
 
 El lanzamiento del MVP se acompañará de una estrategia de comunicación enfocada en alcanzar a los dueños de mascotas a través de redes sociales y colaboraciones con organizaciones de animales. La recopilación activa de feedback será crucial durante esta fase para identificar rápidamente áreas de mejora y validar la propuesta de valor de la aplicación.
 
-### Fase 3: Lanzamiento y Recolección de Feedback
+### Fase 2: Lanzamiento y Recolección de Feedback
 
 - **Despliegue de la Aplicación**: Publicación de la aplicación en las tiendas de aplicaciones móviles, asegurando que cumple con todas las directrices y requisitos de publicación.
 
